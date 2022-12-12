@@ -26,7 +26,7 @@ Connect on your VPS =>
 - su - pool
 - sudo apt -y install git
 - git clone https://github.com/xavatar/yiimp_install_scrypt.git
-- cd yiimp_install_scrypt/
+- cd Install-yiimp-ubuntu-18.04/
 - bash install.sh (DO NOT RUN THE SCRIPT AS ROOT or SUDO)
 - At the end, you MUST REBOOT to finalize installation...
 - Error white page yiimp -> sudo apt-get install -y php7.3-memcache
